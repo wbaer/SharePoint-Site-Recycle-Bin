@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright (c) Microsoft Corporation. All rights reserved. -->
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/"
+	Id="C1DEE71B-3E28-45b4-A296-D81E95E28EB8"
+	Title="SharePoint Site Recycle Bin Stapling"
+	Description="SharePoint Site Recycle Bin Feature Stapling"
+	Version="0.0.0.0"
+	Hidden="true"
+	Scope="Farm">
+	<ElementManifests>
+		<ElementManifest Location="FeatureStapling\FeatureStapling.xml" />
+	</ElementManifests>
+</Feature>

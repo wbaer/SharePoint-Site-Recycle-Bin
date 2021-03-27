@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <assemblyName>Microsoft.SharePoint.Site.RecycleBin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=98e95e81f8e48206</assemblyName>
+  <sequenceNumber>3000</sequenceNumber>
+  <backupFolder>C:\Backup</backupFolder>
+</Configuration>

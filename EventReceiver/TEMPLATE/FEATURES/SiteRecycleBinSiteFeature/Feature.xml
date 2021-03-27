@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Feature Title="SharePoint Site Recycle Bin"
+		 Description="The SharePoint Site Recycle Bin is an SharePoint Foundation 2010 solution package that when deployed to a Microsoft SharePoint Foundation 2010 or Microsoft SharePoint Server 2010 server farm enables administrators to create a snapshot of subscriptions, site collections and Webs as they are deleted through the SharePoint user interface, the SharePoint Administration Tool, the SharePoint 2010 Management Shell, SharePoint 2010 Central Administration, or SharePoint Designer."
+		 Scope="Web" 
+		 Id="78B94E15-23CE-43f9-8036-BABD847497D1"
+		 Hidden="True"
+		 xmlns="http://schemas.microsoft.com/sharepoint/" 
+		 ReceiverAssembly="Microsoft.SharePoint.Site.RecycleBin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=98e95e81f8e48206" 
+		 ReceiverClass="Microsoft.SharePoint.Site.RecycleBin.DeleteFeatureCallout">
+	<ElementManifests>
+		<ElementManifest Location="Elements.xml"/>
+	</ElementManifests>
+</Feature>
+
+
+

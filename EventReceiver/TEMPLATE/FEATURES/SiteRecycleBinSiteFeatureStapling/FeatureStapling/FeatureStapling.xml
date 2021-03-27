@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright (c) Microsoft Corporation. All rights reserved. -->
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="ACCSRV#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="ACCSRV#1" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="ACCSRV#3" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="ACCSRV#4" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="ACCSRV#6" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="ACCSRV#5" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="BDR#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="BICenterSite#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="BLANKINTERNET#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="BLANKINTERNET#1" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="BLANKINTERNET#2" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="BLANKINTERNETCONTAINER#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="BLOG#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="CENTRALADMIN#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="CMSPUBLISHING#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="ENTERWIKI#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="MPS#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="MPS#1" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="MPS#2" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="MPS#3" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="MPS#4" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="OFFILE#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="OFFILE#1" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="OSRV#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="PPSMASite#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="PROFILES#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SGS#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPS#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSCOMMU#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSMSITE#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSMSITEHOST#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSNEWS#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSNHOME#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSPERS#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSPORTAL#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSREPORTCENTER#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSSITES#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSTOC#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SPSTOPIC#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SRCHCEN#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SRCHCENTERFAST#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SRCHCENTERLITE#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="SRCHCENTERLITE#1" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="STS#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="STS#1" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="STS#2" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="TENANTADMIN#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="visprus#0" />
+	<FeatureSiteTemplateAssociation Id="78B94E15-23CE-43f9-8036-BABD847497D1" TemplateName="WIKI#0" />
+</Elements>
